@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1650806926 source:c:\railway reservation system\conio1.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1650806890 c:\railway reservation system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1650823130 source:c:\railway reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"rlyres.h"
+	<string.h>
+	<windows.h>
+
+1650823010 c:\railway reservation system\rlyres.h
+
